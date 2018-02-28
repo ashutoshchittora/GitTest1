@@ -12,9 +12,9 @@ namespace GitSampleProject
     {
         public int add()
         {
-            int x1 = 1;
-            int x2 = 1;
-            int sum = x1 + x2;
+            var x1 = 1;
+            var x2 = 1;
+            var sum = x1 + x2;
             return sum;
 
         }
