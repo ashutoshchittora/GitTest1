@@ -11,6 +11,8 @@ namespace GitSampleProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+
+            // changre from VS and commit from VS ...
         }
     }
 }
