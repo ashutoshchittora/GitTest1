@@ -13,6 +13,7 @@ namespace GitSampleProject
             Console.WriteLine("Hello");
 
             // changre from VS and commit from VS ...
+            // code to call feature 1
         }
     }
 }
